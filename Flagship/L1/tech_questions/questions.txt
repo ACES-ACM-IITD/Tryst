@@ -1,0 +1,21 @@
+Questions for flagship event 1 
+Q1 Alex, Billy, and Craig shared six cards with 2, 3, 4, 5, 6, and 7 hearts. Each boy gets two randomly chosen cards. Craig said that his largest card is 5. Alex said that he knew what card the other boy had. Who has 7? Ans -> Billy 
+Q2 A girl was born in the 20th century. Take away from her year of birth the sum of the four numerals that make it up. You will end up with a number divisible by X. Find X. Ans -> 3 or 9 (both)
+Q3 Connect N points on the circumference of a circle. What is the largest number of intersection of the chords in terms of N. (NC¬4 )
+Q4 Billy(B), Cindy(C), Danial(D) work on a Project. B and C can complete it in 10 days C and D can complete it in 12 days, D and B can complete it in 15 days. How many days are needed for Bill to complete the project on his own? Ans -> 24 days 
+Q5 There are 10 coins and 5 of them are fake. The real gold coins have the same weight while all the fake coins have different weights and each fake coin is lighter than a real one. How many times do you use a balance to find all real coins? ans -> 7
+Q6 I ask you to pick a number from 1 to 100. Then ask you, “Is the number greater than X ? “ You must truly answer yes or no until I tell you the number. What is the maximum number of questions I ask you if I choose the optimal strategy? Here X is the number of my choice. Ans -> 7
+Q7  What is the maximum number of sections into which a pizza maybe divided by four straight cuts through it. Ans -> 11
+Q8 The answer to this question is X. What is 0.5(1+X^2) ? Ans  -> X = 1
+Q9 Anna used 189 digits to number the pages in her diary. How many pages does the diary have? Ans -> 99 pages 
+Q10 Jane has rabbits, kittens, and chickens. All of them are rabbits except three, all of them are kittens except three, all of them are kittens except four and all of them  are chickens except three. How many chickens does she have? Ans -> 2
+Q11 In how many ways can you 4 of the first 8 positive integers so that no two integers are consecutive? Ans -> 5 
+Q12 Edgar chooses one of the double sheets of “The Daily Dog News”. The two internal page numbers of the sheet are 18 and 31. How many pages are there in the news paper? Ans -> 48
+
+Chinmey's questions 
+Q1 31 People are standing in a circle. Numbered 1 to 31. Each alternate person alive keeps dying.  We start with person number one ( i.e the first person dead is #2 then #4 and so on ), which is the number of the person alive
+Q2 There are 32 points on a circle. In how many ways can we join them ( each point is joined with one other point, and all points are joined ) so that the line segments thus formed do not intersect with each othe
+Q3 If the number of distinct trees with 4 labelled vertices is x and the number of different trees with three labelled vertices is y then how many distinct trees can be made by (x-1) / y vertices 
+Q4 There are 5 floors in a building numbered 1 to 5 and there are 5 people ( A to E ) B lives above C but below D. A doesn’t live on either the highest or lowest floors. If E lives immediately below B then on which floor does A live
+Q5 There are 23 phones in a network.  Find the number of arrangements in which every phone is connected to 7 others
+Q6 What is the largest permutation ( compare permutations as decimal numbers ) of the first 5 natural numbers which takes maximal swaps (when swapped optimally)  to make the permutation sorted ( in ascending order )
